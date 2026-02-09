@@ -1,0 +1,3 @@
+﻿Baldwin Bikes	5215751.28
+Santa Cruz Bikes	1605823.04
+Rowlett Bikes	867542.24
