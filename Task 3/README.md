@@ -1,0 +1,2 @@
+__Task 3__
+Understand our growth trajectory. Create a report that breaks down sales performance by year and month. Specifically, see our total revenue, the total number of orders placed, and how many items we are selling on average per order. 
